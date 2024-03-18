@@ -1,8 +1,9 @@
 {
   "name": "function-memo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight utility for memoizing functions to improve performance by caching their results.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
