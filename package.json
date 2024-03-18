@@ -1,0 +1,26 @@
+{
+  "name": "function-memo",
+  "version": "1.0.1",
+  "description": "A lightweight utility for memoizing functions to improve performance by caching their results.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memoize",
+    "cache",
+    "performance",
+    "utility",
+    "function"
+  ],
+  "author": "Sadegh Akbari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadegh1379/function-memo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sadegh1379/function-memo/issues"
+  },
+  "homepage": "https://github.com/sadegh1379/function-memo"
+}
