@@ -1,11 +1,12 @@
 {
   "name": "function-memo",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "A lightweight utility for memoizing functions to improve performance by caching their results.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [
     "memoize",
     "cache",
